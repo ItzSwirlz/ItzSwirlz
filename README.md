@@ -19,6 +19,9 @@ Main Distribution: Ubuntu 20.10 'Groovy Gorilla'
 
 #### Other Contacts and Social Media
 Discord: ItzSwirlz#8701
+
 IRC: ItzSwirlz
+
 Salsa Debian GitLab: https://salsa.debian.org/ItzSwirlz-guest
+
 Twitter: https://twitter.com/ItzSwirlz
