@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and tries to have fun programming. I stan the Atom IDE over VSCode and also try to make small contributions if I can to the Atom project.
 
-#### Info
+## Info
 **Areas of Work:** Cinnamon, Debian, GNOME, Ubuntu
 
 **Main Languages**: Bash, C/C++, JavaScript, Python, Ruby
@@ -14,9 +14,9 @@ I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and
 **Main Toolkit**: GTK
 
 **Other Used Toolkit**: Qt
-#
-**Main Distribution**: Ubuntu 20.10 'Groovy Gorilla'
 
+**Main Distribution**: Ubuntu 20.10 'Groovy Gorilla'
+#
 #### Other Contacts and Social Media
 **Discord**: ItzSwirlz#8701
 
