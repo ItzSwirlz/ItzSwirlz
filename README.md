@@ -4,7 +4,6 @@ I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and
 
 [![ItzSwirlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSwirlz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ItzSwirlz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwirlz&langs_count=50&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ItzSwirlz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzSwirlz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Info
