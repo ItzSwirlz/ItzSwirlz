@@ -19,7 +19,7 @@ I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and
 
 * **Other Used Toolkit**: Qt
 
-* **Main Distribution**: Ubuntu 20.10 'Groovy Gorilla'
+* **Main Distribution**: Ubuntu 21.04 'Hirsute Hippo'
 
 ## Other Contacts and Social Media
 * **Discord**: ItzSwirlz#8701
