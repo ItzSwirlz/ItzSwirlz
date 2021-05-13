@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and tries to have fun programming. I stan the Atom IDE over VSCode and also try to make small contributions if I can to the Atom project.
+I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and tries to have fun programming. I stan the Atom IDE over VSCode and also try to make small contributions if I can to the Atom project. You can also see me being a lover of homebrewing and hacking gaming consoles (I have a 3DS and Wii)
 
 [![ItzSwirlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSwirlz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ItzSwirlz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwirlz&langs_count=50&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
