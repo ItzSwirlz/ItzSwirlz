@@ -2,6 +2,8 @@
 
 I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and tries to have fun programming. I stan the Atom IDE over VSCode and also try to make small contributions if I can to the Atom project. You can also see me being a lover of homebrewing and hacking gaming consoles (I have a 3DS and Wii)
 
+### If you think that there only deserves to be two genders and have no support for LGBTQ+ then you are a human **monster** who [needs to calm down.](https://www.youtube.com/watch?v=Dkk9gvTmCXY)
+
 [![ItzSwirlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSwirlz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ItzSwirlz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSwirlz&langs_count=50&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ItzSwirlz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ItzSwirlz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
