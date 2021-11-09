@@ -21,7 +21,7 @@ I'm a Debian and Ubuntu packager who leads the Ubuntu Cinnamon Remix project and
 
 * **Other Used Toolkit**: Qt
 
-* **Main Distribution**: Ubuntu 21.04 'Hirsute Hippo'
+* **Main Distribution**: Ubuntu 21.10 'Impish Indri'
 
 ## Other Contacts and Social Media
 * **Discord**: ItzSwirlz#8701
