@@ -1,0 +1,31 @@
+[user]
+	email = itzswirlz2020@outlook.com
+	signingkey = 226D0F1861081C139D899D7741C3D4189AFEDB5A
+	name = Joshua Peisach
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[commit]
+	gpgsign = true
+[safe]
+	directory = /opt/flutter
+[core]
+	auto = input
+	autocrlf = false
+	pager = delta
+	editor = hx
+
+[interactive]
+    diffFilter = delta --color-only
+
+[delta]
+    navigate = true    # use n and N to move between diff sections
+    light = false      # set to true if you're in a terminal w/ a light background color (e.g. the default macOS terminal)
+    line-numbers = true
+    features = Dracula
+
+[merge]
+    conflictstyle = diff3
+
+[diff]
+    colorMoved = default
+    side-by-side = true
