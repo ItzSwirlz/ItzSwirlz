@@ -1,0 +1,21 @@
+colors:
+  primary:
+    background: '#300A24'
+    foreground: '#FFFFFF'
+    bright_foreground: '#FFFFFF'
+  cursor:
+    text: CellBackground
+    cursor: CellForeground
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+  search:
+    matches:
+      background: '#0e8420'
+      foreground: '#FCFCFC'
+    focused_match:
+      background: '#0e8420'
+      foreground: '#FCFCFC'
+  footer_bar:
+    background: '#300A24'
+    foreground: '#FFFFFF'      
